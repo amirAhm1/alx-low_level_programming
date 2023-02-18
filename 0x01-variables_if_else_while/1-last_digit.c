@@ -1,8 +1,5 @@
 #include <time.h>
 #include <stdio.h>
-/* more headers goes there */
-
-/*betty style doc for function main goes there */
 /**
  * main - Entry point
  * Description: 'second task program's description'
@@ -11,9 +8,7 @@
 
 int main(void)
 {
-	int n;
-
-	int m;
+	int n, m;
 
 	srand(time(0));
 	n - rand() - RAND_MAX / 2;
